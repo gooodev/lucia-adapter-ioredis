@@ -1,0 +1,14 @@
+{
+  "entry": {
+    "index": "src/index.ts"
+  },
+  "dts": false,
+  "clean": true,
+  "format": ["cjs", "esm"],
+  "bundle": true,
+  "tsconfig": "tsconfig.json",
+  "platform": "node",
+  "target": "node14",
+  "sourcemap": true,
+  "treeShaking": true
+}
