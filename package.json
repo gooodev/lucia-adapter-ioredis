@@ -2,6 +2,10 @@
   "name": "@gooodev/lucia-adapter-ioredis",
   "version": "0.0.4",
   "description": "Lucia auth adapter for ioredis",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gooodev/lucia-adapter-ioredis"
+  },
   "keywords": [
     "auth",
     "lucia",
